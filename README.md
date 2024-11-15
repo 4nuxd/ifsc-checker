@@ -32,4 +32,3 @@ A Python tool to fetch detailed bank information using an IFSC code, with color-
 
 ## License
 This project is licensed under the MIT License.
-```
